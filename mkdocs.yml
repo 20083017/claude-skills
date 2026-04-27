@@ -1,6 +1,6 @@
 site_name: Claude Code Skills & Agent Plugins
 site_url: https://alirezarezvani.github.io/claude-skills/
-site_description: "235 production-ready skills, 28 agents, 3 personas, and an orchestration protocol for 12 AI coding tools. Reusable expertise for engineering, product, marketing, compliance, and more."
+site_description: "239 production-ready skills, 28 agents, 3 personas, and an orchestration protocol for 12 AI coding tools. Reusable expertise for engineering, product, marketing, compliance, and more."
 site_author: Alireza Rezvani
 repo_url: https://github.com/alirezarezvani/claude-skills
 repo_name: alirezarezvani/claude-skills
@@ -187,6 +187,10 @@ nav:
       - "BeHuman": skills/engineering/behuman.md
       - "Browser Automation": skills/engineering/browser-automation.md
       - "Changelog Generator": skills/engineering/changelog-generator.md
+      - "C++ Build and Toolchain": skills/engineering/cpp-build-and-toolchain.md
+      - "C++ Code Reviewer": skills/engineering/cpp-code-reviewer.md
+      - "C++ Design and Architecture": skills/engineering/cpp-design-and-architecture.md
+      - "C++ Test Engineer": skills/engineering/cpp-test-engineer.md
       - "Code Tour": skills/engineering/code-tour.md
       - "Data Quality Auditor": skills/engineering/data-quality-auditor.md
       - "Demo Video": skills/engineering/demo-video.md
@@ -402,6 +406,10 @@ nav:
     - Overview: commands/index.md
     - "/a11y-audit": commands/a11y-audit.md
     - "/changelog": commands/changelog.md
+    - "/cpp-design": commands/cpp-design.md
+    - "/cpp-pipeline": commands/cpp-pipeline.md
+    - "/cpp-review": commands/cpp-review.md
+    - "/cpp-test": commands/cpp-test.md
     - "/code-to-prd": commands/code-to-prd.md
     - "/competitive-matrix": commands/competitive-matrix.md
     - "/financial-health": commands/financial-health.md

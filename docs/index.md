@@ -1,6 +1,6 @@
 ---
-title: 235 Agent Skills for Codex, Gemini CLI & OpenClaw
-description: "235 production-ready Claude Code skills and agent plugins for 12 AI coding tools. Engineering, product, marketing, compliance, and finance agent skills for Claude Code, OpenAI Codex, Gemini CLI, Hermes Agent, Cursor, and OpenClaw."
+title: 239 Agent Skills for Codex, Gemini CLI & OpenClaw
+description: "239 production-ready Claude Code skills and agent plugins for 12 AI coding tools. Engineering, product, marketing, compliance, finance, and new C++ specialist skills for Claude Code, OpenAI Codex, Gemini CLI, Hermes Agent, Cursor, and OpenClaw."
 hide:
   - toc
   - edit
@@ -14,7 +14,7 @@ hide:
 
 # Agent Skills
 
-235 production-ready skills, 28 agents, 3 personas, and an orchestration protocol for AI coding tools.
+239 production-ready skills, 28 agents, 3 personas, and an orchestration protocol for AI coding tools.
 { .hero-subtitle }
 
 [Get Started](getting-started.md){ .md-button .md-button--primary }
@@ -49,7 +49,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-toolbox:{ .lg .middle } **235 Skills**
+-   :material-toolbox:{ .lg .middle } **239 Skills**
 
     ---
 
@@ -81,7 +81,7 @@ hide:
 
     [:octicons-arrow-right-24: Learn patterns](orchestration.md)
 
--   :material-language-python:{ .lg .middle } **314 Python Tools**
+-   :material-language-python:{ .lg .middle } **333 Python Tools**
 
     ---
 
@@ -97,7 +97,7 @@ hide:
 
     [:octicons-arrow-right-24: Plugin marketplace](plugins/)
 
--   :material-console:{ .lg .middle } **27 Commands**
+-   :material-console:{ .lg .middle } **31 Commands**
 
     ---
 
@@ -141,9 +141,9 @@ hide:
 
     ---
 
-    Agent designer, RAG architect, database designer, CI/CD builder, MCP server builder, security auditor, tech debt tracker
+    Agent designer, RAG architect, database designer, CI/CD builder, MCP server builder, security auditor, tech debt tracker, and new C++ build/test/review/architecture workflows
 
-    [:octicons-arrow-right-24: 45 skills](skills/engineering/)
+    [:octicons-arrow-right-24: 49 skills](skills/engineering/)
 
 -   :material-bullseye-arrow:{ .lg .middle } **Product**
 

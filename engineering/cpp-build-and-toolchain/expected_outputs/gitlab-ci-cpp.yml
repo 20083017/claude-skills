@@ -1,0 +1,5 @@
+stages:
+  - build
+  - test
+
+# Baseline GitLab CI example for the generated pipeline.

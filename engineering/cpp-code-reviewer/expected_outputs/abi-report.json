@@ -1,0 +1,6 @@
+{
+  "risk_level": "medium",
+  "breaking_signals": [
+    "virtual method signature changed"
+  ]
+}

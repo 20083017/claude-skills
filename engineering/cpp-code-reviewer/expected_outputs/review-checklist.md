@@ -1,0 +1,3 @@
+- [ ] Ownership and lifetime are explicit
+- [ ] Copy/move semantics remain correct
+- [ ] Public header changes are ABI-safe

@@ -1,0 +1,12 @@
+{
+  "repo": "/abs/path",
+  "build_systems": [
+    "cmake"
+  ],
+  "package_managers": [
+    "vcpkg"
+  ],
+  "generators": [
+    "ninja"
+  ]
+}
