@@ -1,13 +1,13 @@
 ---
 title: "Slash Commands — AI Coding Agent Commands & Codex Shortcuts"
-description: "29 slash commands for Claude Code, Codex CLI, and Gemini CLI — sprint planning, tech debt analysis, PRDs, OKRs, and more."
+description: "31 slash commands for Claude Code, Codex CLI, and Gemini CLI — sprint planning, tech debt analysis, PRDs, OKRs, and more."
 ---
 
 <div class="domain-header" markdown>
 
 # :material-console: Slash Commands
 
-<p class="domain-count">29 commands for quick access to common operations</p>
+<p class="domain-count">31 commands for quick access to common operations</p>
 
 </div>
 
@@ -36,6 +36,30 @@ description: "29 slash commands for Claude Code, Codex CLI, and Gemini CLI — s
     ---
 
     Build competitive matrices with weighted scoring, gap analysis, and market positioning insights.
+
+-   :material-console:{ .lg .middle } **[`/cpp-design`](cpp-design.md)**
+
+    ---
+
+    Plan modular C++ architectures, analyze exported header surfaces, and record architecture decisions before implementa...
+
+-   :material-console:{ .lg .middle } **[`/cpp-pipeline`](cpp-pipeline.md)**
+
+    ---
+
+    Detect C++ build signals, generate CI baselines, and plan sanitizer lanes for modern toolchains.
+
+-   :material-console:{ .lg .middle } **[`/cpp-review`](cpp-review.md)**
+
+    ---
+
+    Generate C++ review checklists that focus on ownership, ABI compatibility, include hygiene, and risk scoring.
+
+-   :material-console:{ .lg .middle } **[`/cpp-test`](cpp-test.md)**
+
+    ---
+
+    Detect GoogleTest/Catch2/doctest usage, generate C++ test skeletons, and normalize coverage output.
 
 -   :material-console:{ .lg .middle } **[`/financial-health`](financial-health.md)**
 

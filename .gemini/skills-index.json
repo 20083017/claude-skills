@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "name": "gemini-cli-skills",
-  "total_skills": 297,
+  "total_skills": 305,
   "skills": [
     {
       "name": "README",
@@ -367,6 +367,26 @@
       "name": "competitive-matrix",
       "category": "command",
       "description": "Build competitive analysis matrices with scoring and gap analysis. Usage: /competitive-matrix <analyze> [options]"
+    },
+    {
+      "name": "cpp-design",
+      "category": "command",
+      "description": "Scaffold C++ architecture outlines, ADRs, and boundary checks. Usage: /cpp-design [options]"
+    },
+    {
+      "name": "cpp-pipeline",
+      "category": "command",
+      "description": "Detect C++ toolchains and generate pipeline configs. Usage: /cpp-pipeline <detect|generate|sanitize> [options]"
+    },
+    {
+      "name": "cpp-review",
+      "category": "command",
+      "description": "Generate focused C++ review checklists, ABI checks, and risk summaries. Usage: /cpp-review [options]"
+    },
+    {
+      "name": "cpp-test",
+      "category": "command",
+      "description": "Generate C++ test scaffolds, detect frameworks, and summarize coverage. Usage: /cpp-test <detect|generate|coverage> [options]"
     },
     {
       "name": "financial-health",
@@ -809,6 +829,26 @@
       "description": "Codebase Onboarding"
     },
     {
+      "name": "cpp-build-and-toolchain",
+      "category": "engineering-advanced",
+      "description": "Use when setting up or auditing C++ build systems, toolchains, CMake projects, compile_commands flows, CI pipelines, or sanitizer build matrices across CMake, Ninja, Make, Conan, and vcpkg based repositories."
+    },
+    {
+      "name": "cpp-code-reviewer",
+      "category": "engineering-advanced",
+      "description": "Use when reviewing C++ changes for ownership, ABI safety, include hygiene, clang-tidy policy, and risk hotspots in modern C++ libraries, services, and platform code."
+    },
+    {
+      "name": "cpp-design-and-architecture",
+      "category": "engineering-advanced",
+      "description": "Use when designing C++ library boundaries, public header policy, dependency seams, or architecture decision records for reusable systems, SDKs, platform layers, and maintainable modular codebases."
+    },
+    {
+      "name": "cpp-test-engineer",
+      "category": "engineering-advanced",
+      "description": "Use when generating C++ test scaffolds, detecting GoogleTest/Catch2/doctest setups, planning fixtures, normalizing coverage output, or designing sanitizer-aware test workflows for modern C++ codebases."
+    },
+    {
       "name": "data-quality-auditor",
       "category": "engineering-advanced",
       "description": "Audit datasets for completeness, consistency, accuracy, and validity. Profile data distributions, detect anomalies and outliers, surface structural issues, and produce an actionable remediation plan."
@@ -951,7 +991,7 @@
     {
       "name": "run",
       "category": "engineering-advanced",
-      "description": "One-shot lifecycle command that chains init \u2192 baseline \u2192 spawn \u2192 eval \u2192 merge in a single invocation."
+      "description": "Run a single experiment iteration. Edit the target file, evaluate, keep or discard."
     },
     {
       "name": "runbook-generator",
@@ -996,17 +1036,17 @@
     {
       "name": "skills-run",
       "category": "engineering-advanced",
-      "description": "Run a single experiment iteration. Edit the target file, evaluate, keep or discard."
-    },
-    {
-      "name": "skills-status",
-      "category": "engineering-advanced",
-      "description": "Show DAG state, agent progress, and branch status for an AgentHub session."
+      "description": "One-shot lifecycle command that chains init \u2192 baseline \u2192 spawn \u2192 eval \u2192 merge in a single invocation."
     },
     {
       "name": "skills-status",
       "category": "engineering-advanced",
       "description": "Show experiment dashboard with results, active loops, and progress."
+    },
+    {
+      "name": "skills-status",
+      "category": "engineering-advanced",
+      "description": "Show DAG state, agent progress, and branch status for an AgentHub session."
     },
     {
       "name": "spawn",
@@ -1503,7 +1543,7 @@
       "description": "C-level resources"
     },
     "command": {
-      "count": 29,
+      "count": 33,
       "description": "Command resources"
     },
     "engineering": {
@@ -1511,7 +1551,7 @@
       "description": "Engineering resources"
     },
     "engineering-advanced": {
-      "count": 60,
+      "count": 64,
       "description": "Engineering-advanced resources"
     },
     "finance": {

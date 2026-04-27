@@ -24,7 +24,7 @@ Claude Code skills (also called agent skills or coding agent plugins) are modula
 
 - **SKILL.md** — structured instructions, workflows, and decision frameworks
 - **Python tools** — 333 CLI scripts (all stdlib-only, zero pip installs)
-- **Reference docs** — templates, checklists, and domain-specific knowledge
+- **Reference docs** — 453 templates, checklists, and domain-specific guides
 
 **One repo, eleven platforms.** Works natively as Claude Code plugins, Codex agent skills, Gemini CLI skills, and converts to 8 more tools via `scripts/convert.sh`. All 333 Python tools run anywhere Python runs.
 

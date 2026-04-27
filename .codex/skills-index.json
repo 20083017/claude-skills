@@ -3,7 +3,7 @@
   "name": "claude-code-skills",
   "description": "Production-ready skill packages for AI agents - Marketing, Engineering, Product, C-Level, PM, and RA/QM",
   "repository": "https://github.com/alirezarezvani/claude-skills",
-  "total_skills": 198,
+  "total_skills": 202,
   "skills": [
     {
       "name": "contract-and-proposal-writer",
@@ -484,6 +484,30 @@
       "source": "../../engineering/codebase-onboarding",
       "category": "engineering-advanced",
       "description": "Codebase Onboarding"
+    },
+    {
+      "name": "cpp-build-and-toolchain",
+      "source": "../../engineering/cpp-build-and-toolchain",
+      "category": "engineering-advanced",
+      "description": "Use when setting up or auditing C++ build systems, toolchains, CMake projects, compile_commands flows, CI pipelines, or sanitizer build matrices across CMake, Ninja, Make, Conan, and vcpkg based repositories."
+    },
+    {
+      "name": "cpp-code-reviewer",
+      "source": "../../engineering/cpp-code-reviewer",
+      "category": "engineering-advanced",
+      "description": "Use when reviewing C++ changes for ownership, ABI safety, include hygiene, clang-tidy policy, and risk hotspots in modern C++ libraries, services, and platform code."
+    },
+    {
+      "name": "cpp-design-and-architecture",
+      "source": "../../engineering/cpp-design-and-architecture",
+      "category": "engineering-advanced",
+      "description": "Use when designing C++ library boundaries, public header policy, dependency seams, or architecture decision records for reusable systems, SDKs, platform layers, and maintainable modular codebases."
+    },
+    {
+      "name": "cpp-test-engineer",
+      "source": "../../engineering/cpp-test-engineer",
+      "category": "engineering-advanced",
+      "description": "Use when generating C++ test scaffolds, detecting GoogleTest/Catch2/doctest setups, planning fixtures, normalizing coverage output, or designing sanitizer-aware test workflows for modern C++ codebases."
     },
     {
       "name": "data-quality-auditor",
@@ -1211,7 +1235,7 @@
       "description": "Software engineering and technical skills"
     },
     "engineering-advanced": {
-      "count": 46,
+      "count": 50,
       "source": "../../engineering",
       "description": "Advanced engineering skills - agents, RAG, MCP, CI/CD, databases, observability"
     },

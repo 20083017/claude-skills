@@ -5,6 +5,8 @@ description: "How to install 239 Claude Code skills and agent plugins for 12 AI 
 
 # Getting Started
 
+Install from a library of 239 skills, 333 stdlib-only Python tools, and 31 slash commands for AI coding workflows.
+
 ## Installation
 
 Choose your platform and follow the steps:
