@@ -1,13 +1,13 @@
 ---
 title: "Engineering - POWERFUL Skills — Agent Skills & Codex Plugins"
-description: "59 engineering - powerful skills — advanced agent-native skill and Claude Code plugin for AI agent design, infrastructure, and automation. Works with Claude Code, Codex CLI, Gemini CLI, and OpenClaw."
+description: "49 engineering - powerful skills — advanced agent-native skill and Claude Code plugin for AI agent design, infrastructure, and automation. Works with Claude Code, Codex CLI, Gemini CLI, and OpenClaw."
 ---
 
 <div class="domain-header" markdown>
 
 # :material-rocket-launch: Engineering - POWERFUL
 
-<p class="domain-count">59 skills in this domain</p>
+<p class="domain-count">49 skills in this domain</p>
 
 </div>
 
@@ -84,6 +84,30 @@ description: "59 engineering - powerful skills — advanced agent-native skill a
     Create CodeTour files — persona-targeted, step-by-step walkthroughs of a codebase that link directly to files and lin...
 
 -   **[Codebase Onboarding](codebase-onboarding.md)**
+
+    ---
+
+    Tier: POWERFUL
+
+-   **[C++ Build and Toolchain](cpp-build-and-toolchain.md)**
+
+    ---
+
+    Tier: POWERFUL
+
+-   **[C++ Code Reviewer](cpp-code-reviewer.md)**
+
+    ---
+
+    Tier: POWERFUL
+
+-   **[C++ Design and Architecture](cpp-design-and-architecture.md)**
+
+    ---
+
+    Tier: POWERFUL
+
+-   **[C++ Test Engineer](cpp-test-engineer.md)**
 
     ---
 
